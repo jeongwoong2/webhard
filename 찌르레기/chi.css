@@ -1,0 +1,104 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin: 0px;
+}
+
+.bigbox{
+    width:850px;
+    padding-left: 500px;
+    padding-top: 0px;
+    line-height: 1.7;;
+}
+
+h2{
+    border-bottom: 2px solid rgb(243, 243, 243);
+    padding-bottom: 10px;
+    font-size: 33px;
+    font-weight: 600;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    padding-top:40px;
+  }
+a{
+    border: 1px solid black;
+    margin-bottom: 20px;
+    display: flex;
+    color:black;
+    text-decoration:none;
+}
+.two{
+    border: 1px solid black;
+    margin-bottom:20px
+}
+.three{
+    border:1px solid black;
+    margin-bottom:20px;
+}
+.four{
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+.five{
+    border: 1px solid black;
+    margin-bottom:20px
+}
+.six{
+    border:1px solid black;
+    margin-bottom:20px;
+}
+.seven{
+    border: 1px solid black;
+    margin-bottom:20px
+}
+.eight{
+    border:1px solid black;
+    margin-bottom:20px;
+}
+.mong{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.news{
+    width: 400px;
+    padding-top: 10px;
+    line-height: 27px;
+    padding-right:63px;
+}
+.point{
+    font-weight: bold;
+}
+.newssize{
+    font-size:13px
+}
+.file{
+    padding-right:10px;
+    width:180px;  
+}
+.go{
+    line-height: 168px;
+    margin:0;  
+    width: 175px; 
+    text-align: center;
+    background-color: rgb(233, 233, 233);
+
+}
+a:hover {
+    background-color: rgb(233, 233, 233);
+}
+.bogo{
+    padding-top:42px;  
+    padding-bottom: 40px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.smart{
+    padding-top:57px;  
+    padding-bottom: 40px;
+    padding-left:10px;
+    padding-right:10px;
+}
